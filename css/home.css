@@ -1,0 +1,26 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.wrapper{
+	width:100%;
+}
+.header{
+	background-color:#34D1C6;
+}
+
+.container{
+
+width: 1000px;
+margin: 0 auto;
+
+}
+
+.header-left {
+    width: 20%;
+}
+
+img {
+    width: 100%;
+}
+
